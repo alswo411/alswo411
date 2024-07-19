@@ -19,7 +19,7 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
 ## 📑 Certificate
 - SQLD(SQL 개발자) (2024.04.05.)
 - ADsP(데이터 분석 준전문가) (2023.01.15.)
-- Microsoft Office Specialist Master (2018.06.15.)
+
 
 ## 🏆 Prize(수상내역)
 - **주최기관**: 
