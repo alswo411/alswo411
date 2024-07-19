@@ -7,7 +7,7 @@ header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100
 
 ## 👨 Profile
 - 👶 생년월일: 1997년 04월 11일
-- 👨‍🎓 삼육대학교 졸업 (2017.03 ~ 2023.03.)
+- 👨‍🎓 삼육대학교 졸업 (2016.03 ~ 2023.03.)
 
 
 ## 💡 Contact
